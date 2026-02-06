@@ -1,0 +1,1 @@
+4,Logic Error,High,Division by zero if the input list 'numbers' is empty,Add length check before division
